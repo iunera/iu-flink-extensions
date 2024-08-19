@@ -40,5 +40,17 @@ Allows to serialize a POJO to a CSV with the headline of the column names as the
 ## Pojo Json Serializer
 Serializes Pojos into Json
 
+# Usage
+Implemeted in your pom.xml the following dependency
+```
+<dependency>
+    <groupId>com.iunera.fahrbar</groupId>
+    <artifactId>iu-flink-extensions</artifactId>
+    <version>2.0.0</version>
+</dependency>
+```
+
+
+
 # License
 [Open Compensation Token License, Version 0.20](https://github.com/open-compensation-token-license/license/blob/main/LICENSE.md)
