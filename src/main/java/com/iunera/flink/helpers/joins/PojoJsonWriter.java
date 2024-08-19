@@ -1,7 +1,5 @@
 package com.iunera.flink.helpers.joins;
 
-import org.apache.flink.api.java.io.TextOutputFormat.TextFormatter;
-
 /*-
  * #%L
  * iu-flink-extensions
@@ -29,6 +27,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
+import org.apache.flink.api.java.io.TextOutputFormat.TextFormatter;
 
 public class PojoJsonWriter<T> implements TextFormatter<T> {
 
