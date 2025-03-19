@@ -49,9 +49,11 @@ Implemeted in your pom.xml the following dependency
     <version>2.0.0</version>
 </dependency>
 ```
-
 # License
-## [Open Compensation Token License, Version 0.20](https://github.com/open-compensation-token-license/license/blob/main/LICENSE.md)
+
+We choose fair [code, fair work, fair payment, open  collaboration](https://www.license-token.com)
+
+## [Open Compensation Token License](https://github.com/open-compensation-token-license/license/blob/main/LICENSE.md)
 
 ```
 Licensed under the OPEN COMPENSATION TOKEN LICENSE (the "License").
@@ -69,5 +71,6 @@ limitations under the License.
 
 @octl.sid: 1b6f7a5d-8dcf-44f1-b03a-77af04433496
 ```
-* Why we did [choose the OCTL](https://www.license-token.com/why-octl)
-* Why we [do NOT apply Apache 2.0 License] (https://www.license-token.com/wiki/the-downside-of-apache-license-and-why-i-never-would-use-it)?
+* Why did we [choose the OCTL as alternative to the MIT License](https://www.license-token.com/wiki/unveiling-mit-license-summary)
+* Why we [do NOT apply Apache 2.0 License](https://www.license-token.com/wiki/the-downside-of-apache-license-and-why-i-never-would-use-it)?
+
